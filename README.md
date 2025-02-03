@@ -1,4 +1,4 @@
-# 🌍📡 TCP | UDP Application on Topics 📡🌍
+# 🌍📡 TCP | UDP Application 📡🌍
 
 **Copyright 2023 - 2024 Stefan Ioana 322CA**
 
